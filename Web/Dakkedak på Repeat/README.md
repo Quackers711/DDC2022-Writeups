@@ -13,13 +13,21 @@ Hvis vi starter med at kigge i `trace.zip` kan vi se at vi har en `pcapng` fil. 
 
 Hvis vi sammenligner TCP stream 5 og 6 kan vi se at de er præcis den samme!
 >POST /vote HTTP/1.1
+>
 >Host: fastestcarpoll.hkn
+>
 >User-Agent: python-requests/2.27.1
+>
 >Accept-Encoding: gzip, deflate
+>
 >Accept: */*
+>
 >Connection: keep-alive
+>
 >Content-Length: 144
+>
 >Content-Type: application/json
+>
 >{"name": "Brian Hansen", "action": "upvote", "option": "black", "signature": "0f6a3012b719a0d3823e2a9622b69d56c2ca0dce741074a447f89b017b2c09c5"}
 
 Nu har vi en valid request vi kan sende til serveren for at manipulere resultaterne!
