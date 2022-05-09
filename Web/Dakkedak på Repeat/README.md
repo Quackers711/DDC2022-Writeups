@@ -30,7 +30,7 @@ Vi kan nu opfange en request til siden i burpsuite og sende den til Repeat modul
 Og vi kan se at requesten virker! Hvis vi kigger på hjemmesiden kan vi også se at stemmeprocenten for sort er gået op!
 
 Vi kan bare blive ved med at sende denne request indtil at farven har 50% stemmer og vi blive mødt med konfetti og flaget:
-![Flag](./Images/flag.png)
+![Flag](./Images/Flag.png)
 
 Og der har vi flaget!
 >DDC{4_Br14n_bY_4Ny_o7h3R_n4m3}
