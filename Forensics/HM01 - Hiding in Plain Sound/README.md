@@ -4,7 +4,7 @@
 
 Vi får udleveret filen `hiding-in-plain.sound.zip` hvori den eneste relevante fil til denne opgave er `HM01.flac`
 
-# Løsning
+## Løsning
 Ud fra navnet var min første tanke at der nok var noget gemt i filen hvis man kigger på filen i et spektrogram. Et rigtigt godt værktøj til lige netop dette er [Audacity](https://www.audacityteam.org/)
 
 Når vi åbner filen i Audacity kan vi se filen som følgende:
