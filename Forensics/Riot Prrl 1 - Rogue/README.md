@@ -9,15 +9,21 @@ Astrid Mågensdals computer er filen r0uge3fa1ry.ova.
 ## Løsning
 Eftersom at `.ova` filen fylder omkring 2GB har vi lidt tid til at lave noget research på Astrid som desdeskriptionen også forslår. I briefing filen får vi at vide at hun bruger navnet `astridmagensdal` online.
 
-Lad os slippe for at skulle gøre det hårde arbejde og bare smide navnet ind i toolet Sherlock LINK HERE
->python3 sherlock.py astridmagensdal        
-[*] Checking username astridmagensdal on:
-[+] Coil: https://coil.com/u/astridmagensdal
-[+] Fiverr: https://www.fiverr.com/astridmagensdal
-[+] Instagram: https://www.instagram.com/astridmagensdal
-[+] Minecraft: https://api.mojang.com/users/profiles/minecraft/astridmagensdal
-[+] TradingView: https://www.tradingview.com/u/astridmagensdal/
-[+] Twitter: https://twitter.com/astridmagensdal
+Lad os slippe for at skulle gøre det hårde arbejde og bare smide navnet ind i toolet ![Sherlock](https://github.com/sherlock-project/sherlock)
+
+>[*] Checking username astridmagensdal on:
+>
+>[+] Coil: https://coil.com/u/astridmagensdal
+>
+>[+] Fiverr: https://www.fiverr.com/astridmagensdal
+>
+>[+] Instagram: https://www.instagram.com/astridmagensdal
+>
+>[+] Minecraft: https://api.mojang.com/users/profiles/minecraft/astridmagensdal
+>
+>[+] TradingView: https://www.tradingview.com/u/astridmagensdal/
+>
+>[+] Twitter: https://twitter.com/astridmagensdal
 
 Mange af resultaterne er døde links eller irrelevante men Instagram og Twitter stikker ud som værende de mest interessante i dette tilfælde.
 
